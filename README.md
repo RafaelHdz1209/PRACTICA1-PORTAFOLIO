@@ -12,3 +12,6 @@
 # 4. Ademas, inclui un apartado con algunas de mis habilidades para complementar.
 ![Pagina web](CAPTURAS/Parte4.png)
 ![Codigo](CAPTURAS/Parte4.4.png)
+# 5.Para finalizar, el apartado de contacto.
+![Pagina web](CAPTURAS/Parte5.png)
+![Codigo](CAPTURAS/Parte5.5.png)
