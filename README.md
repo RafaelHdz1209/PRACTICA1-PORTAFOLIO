@@ -12,6 +12,11 @@
 # 4. Ademas, inclui un apartado con algunas de mis habilidades para complementar.
 ![Pagina web](CAPTURAS/Parte4.png)
 ![Codigo](CAPTURAS/Parte4.4.png)
-# 5.Para finalizar, el apartado de contacto.
+# 5. Para finalizar, el apartado de contacto.
 ![Pagina web](CAPTURAS/Parte5.png)
 ![Codigo](CAPTURAS/Parte5.5.png)
+# 6. Como ultimo paso, hago la comprobacion de la pagina web estatica en los navegadores que tengo instalados.
+# Microsoft Edge
+![Pagina web](CAPTURAS/Parte6.png)
+# Internet Explorer
+![Pagina web](CAPTURAS/Parte6.1.png)
