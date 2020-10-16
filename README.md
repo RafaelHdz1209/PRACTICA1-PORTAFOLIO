@@ -6,3 +6,6 @@
 # 2. A continuacion agregue un apartado de redes sociales, en el cual al hacer clic en cualquiera de las imagenes se redirigirá a su correspondiente URL.
 ![Codigo](CAPTURAS/Parte2.2.png)
 ![Pagina web](CAPTURAS/Parte2.png)
+# 3. Apartado de caracteristicas
+![Pagina web](CAPTURAS/Parte3.png)
+![Codigo](CAPTURAS/Parte3.3.png)
