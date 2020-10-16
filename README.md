@@ -9,3 +9,6 @@
 # 3. Apartado de caracteristicas
 ![Pagina web](CAPTURAS/Parte3.png)
 ![Codigo](CAPTURAS/Parte3.3.png)
+# 4. Ademas, inclui un apartado con algunas de mis habilidades para complementar.
+![Pagina web](CAPTURAS/Parte4.png)
+![Codigo](CAPTURAS/Parte4.4.png)
